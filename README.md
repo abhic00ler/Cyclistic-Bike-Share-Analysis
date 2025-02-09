@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Capstone-Project-Cyclistic
+# Project-Cyclistic-Bike-Share-Analysis
 
 
 ## Introduction
@@ -82,8 +82,8 @@ To answer this question, there were a few things that I identified that I could 
 - Total # of trips and average length of trip per rider type per month, day, and hour of day
 - Most Popular Start and End Stations per rider type
 
-All SQL queries can be found Here: [Data Analysis](https://github.com/IshikaTheAnalyst/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/main/DataAnalysis.sql).
-[Data Cleaning](https://github.com/IshikaTheAnalyst/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/main/DataCleaning.sql).
+All SQL queries can be found Here: [Data Analysis](https://github.com/abhic00ler/Cyclistic-Bike-Share-Analysis/blob/main/DataAnalysis.sql).
+[Data Cleaning](https://github.com/abhic00ler/Cyclistic-Bike-Share-Analysis/blob/main/DataCleaning.sql).
 
 After pulling the specified data with my queries, I noticed a few things right off the bat:
 
@@ -111,7 +111,7 @@ I compile my dashboard, I included the following visualizations:
 
 
 Here is a look at the dashboard
-![Dashboard](https://github.com/IshikaTheAnalyst/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/main/dashboard.png)
+![Dashboard](https://github.com/abhic00ler/Cyclistic-Bike-Share-Analysis/blob/main/dashboard.png)
 
 
 
